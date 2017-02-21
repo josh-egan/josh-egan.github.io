@@ -1,2 +1,2 @@
 # josh-egan.github.io
-joshegan.com home page
+[joshegan.com](joshegan.com)
