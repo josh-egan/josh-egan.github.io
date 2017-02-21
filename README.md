@@ -1,2 +1,2 @@
 # josh-egan.github.io
-[joshegan.com](joshegan.com)
+[joshegan.com](http://joshegan.com)
